@@ -22,19 +22,19 @@
     "url": "https://usftempodecuidar.pt",
     "icon": "https://favicons.githubusercontent.com/usftempodecuidar.pt",
     "slug": "usf-tempo-de-cuidar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3861,
-    "timeDay": 2759,
-    "timeWeek": 4747,
-    "timeMonth": 4077,
-    "timeYear": 3861,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 3852,
+    "timeDay": 3043,
+    "timeWeek": 4569,
+    "timeMonth": 4053,
+    "timeYear": 3852,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 12
     }
   }
 ]
