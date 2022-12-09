@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nunogand.com.ico",
     "slug": "nunogand",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 997,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 974,
     "timeDay": 2171,
-    "timeWeek": 1362,
-    "timeMonth": 997,
-    "timeYear": 997,
-    "dailyMinutesDown": {
-      "2022-12-08": 6
-    }
+    "timeWeek": 1375,
+    "timeMonth": 974,
+    "timeYear": 974,
+    "dailyMinutesDown": {}
   },
   {
     "name": "USF Tempo de Cuidar",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 414,
+      "2022-12-09": 55,
+      "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
@@ -68,7 +67,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-08": 828,
+      "2022-12-09": 112,
+      "2022-12-08": 2880,
       "2022-12-07": 2880,
       "2022-12-06": 2880,
       "2022-12-05": 2880,
