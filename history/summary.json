@@ -4,7 +4,7 @@
     "url": "https://nunogand.com",
     "icon": "https://icons.duckduckgo.com/ip3/nunogand.com.ico",
     "slug": "nunogand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 431,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-03-12": 19,
       "2025-03-06": 27
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 70,
+      "2025-05-07": 701,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -421,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 140,
+      "2025-05-07": 1402,
       "2025-05-06": 2880,
       "2025-05-05": 2880,
       "2025-05-04": 2880,
