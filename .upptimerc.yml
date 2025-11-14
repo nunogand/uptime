@@ -6,11 +6,10 @@ sites:
   - name: nunogand
     url: https://nunogand.com
   - name: USF Tempo de Cuidar
-    url: https:www.usftempodecuidar.pt
+    url: https://www.usftempodecuidar.pt
   - name: VPN
-    check: "tcp-ping"
     url: https://nunogand.asuscomm.com
-    port: 51820
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
