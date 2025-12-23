@@ -4,18 +4,19 @@
     "url": "https://nunogand.com",
     "icon": "https://icons.duckduckgo.com/ip3/nunogand.com.ico",
     "slug": "nunogand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.33%",
-    "time": 486,
-    "timeDay": 684,
-    "timeWeek": 504,
-    "timeMonth": 502,
+    "time": 487,
+    "timeDay": 665,
+    "timeWeek": 516,
+    "timeMonth": 493,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2025-12-23": 1,
       "2025-12-22": 22,
       "2025-12-21": 18,
       "2025-12-20": 26,
@@ -77,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usftempodecuidar.pt.ico",
     "slug": "usf-tempo-de-cuidar",
     "status": "up",
-    "uptime": "3.36%",
+    "uptime": "3.38%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "98.40%",
-    "uptimeYear": "10.31%",
+    "uptimeYear": "10.39%",
     "time": 1224,
-    "timeDay": 1166,
-    "timeWeek": 1238,
-    "timeMonth": 1209,
+    "timeDay": 1012,
+    "timeWeek": 1245,
+    "timeMonth": 1204,
     "timeYear": 1224,
     "dailyMinutesDown": {
       "2025-12-22": 22,
@@ -434,8 +435,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 1440
+      "2024-12-24": 1440
     }
   },
   {
@@ -455,7 +455,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-22": 2266,
+      "2025-12-23": 146,
+      "2025-12-22": 2880,
       "2025-12-21": 2880,
       "2025-12-20": 2880,
       "2025-12-19": 2880,
@@ -818,8 +819,7 @@
       "2024-12-27": 2880,
       "2024-12-26": 2880,
       "2024-12-25": 2880,
-      "2024-12-24": 2880,
-      "2024-12-23": 2880
+      "2024-12-24": 2880
     }
   }
 ]
