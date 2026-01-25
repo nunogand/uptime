@@ -4,18 +4,19 @@
     "url": "https://nunogand.com",
     "icon": "https://icons.duckduckgo.com/ip3/nunogand.com.ico",
     "slug": "nunogand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "99.15%",
-    "time": 483,
-    "timeDay": 344,
-    "timeWeek": 545,
-    "timeMonth": 498,
+    "uptimeYear": "99.16%",
+    "time": 484,
+    "timeDay": 347,
+    "timeWeek": 550,
+    "timeMonth": 503,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2026-01-25": 1,
       "2026-01-24": 20,
       "2026-01-23": 28,
       "2026-01-22": 32,
@@ -86,8 +87,7 @@
       "2025-09-21": 4,
       "2025-08-16": 21,
       "2025-07-25": 29,
-      "2025-07-24": 53,
-      "2025-07-16": 40
+      "2025-07-24": 53
     }
   },
   {
@@ -96,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usftempodecuidar.pt.ico",
     "slug": "usf-tempo-de-cuidar",
     "status": "up",
-    "uptime": "6.04%",
+    "uptime": "6.06%",
     "uptimeDay": "97.77%",
-    "uptimeWeek": "95.63%",
+    "uptimeWeek": "96.85%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "19.11%",
-    "time": 1289,
-    "timeDay": 1491,
-    "timeWeek": 1877,
-    "timeMonth": 1349,
-    "timeYear": 1289,
+    "uptimeYear": "19.19%",
+    "time": 1288,
+    "timeDay": 1318,
+    "timeWeek": 2015,
+    "timeMonth": 1353,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2026-01-24": 32,
       "2026-01-22": 124,
@@ -443,8 +443,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -464,7 +463,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 2252,
+      "2026-01-25": 162,
+      "2026-01-24": 2880,
       "2026-01-23": 2880,
       "2026-01-22": 2880,
       "2026-01-21": 2880,
@@ -827,8 +827,7 @@
       "2025-01-29": 2880,
       "2025-01-28": 2880,
       "2025-01-27": 2880,
-      "2025-01-26": 2880,
-      "2025-01-25": 2880
+      "2025-01-26": 2880
     }
   }
 ]
