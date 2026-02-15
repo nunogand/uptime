@@ -4,19 +4,19 @@
     "url": "https://nunogand.com",
     "icon": "https://icons.duckduckgo.com/ip3/nunogand.com.ico",
     "slug": "nunogand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "95.81%",
+    "uptimeDay": "95.77%",
     "uptimeWeek": "96.21%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "99.32%",
     "time": 498,
     "timeDay": 501,
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2026-02-15": 20,
+      "2026-02-15": 21,
       "2026-02-14": 173,
       "2026-02-10": 189,
       "2026-02-07": 48,
@@ -83,7 +83,7 @@
       "2025-11-13": 62,
       "2025-11-12": 32,
       "2025-11-11": 101,
-      "2025-11-07": 36
+      "2025-11-07": 20
     }
   },
   {
@@ -96,7 +96,7 @@
     "uptimeDay": "89.69%",
     "uptimeWeek": "96.49%",
     "uptimeMonth": "96.68%",
-    "uptimeYear": "24.91%",
+    "uptimeYear": "24.92%",
     "time": 1300,
     "timeDay": 1210,
     "timeWeek": 1380,
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-15": 1774,
+      "2026-02-15": 1864,
       "2026-02-14": 2880,
       "2026-02-13": 2880,
       "2026-02-12": 2880,
