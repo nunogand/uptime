@@ -92,8 +92,8 @@
     "slug": "usf-tempo-de-cuidar",
     "status": "down",
     "uptime": "7.91%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "95.88%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "94.83%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "25.54%",
     "time": 1309,
@@ -102,7 +102,7 @@
     "timeMonth": 1579,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2026-02-18": 1,
+      "2026-02-18": 107,
       "2026-02-17": 82,
       "2026-02-16": 42,
       "2026-02-15": 143,
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-18": 2,
+      "2026-02-18": 214,
       "2026-02-17": 2880,
       "2026-02-16": 2880,
       "2026-02-15": 2880,
