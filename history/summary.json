@@ -6,14 +6,14 @@
     "slug": "nunogand",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "84.51%",
-    "uptimeWeek": "94.82%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "94.85%",
     "uptimeMonth": "96.14%",
     "uptimeYear": "99.30%",
     "time": 502,
-    "timeDay": 778,
-    "timeWeek": 607,
-    "timeMonth": 551,
+    "timeDay": 672,
+    "timeWeek": 612,
+    "timeMonth": 555,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2026-02-20": 150,
@@ -91,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usftempodecuidar.pt.ico",
     "slug": "usf-tempo-de-cuidar",
     "status": "up",
-    "uptime": "8.10%",
-    "uptimeDay": "94.29%",
+    "uptime": "8.13%",
+    "uptimeDay": "95.99%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "96.54%",
-    "uptimeYear": "26.22%",
+    "uptimeYear": "26.33%",
     "time": 1347,
-    "timeDay": 3751,
-    "timeWeek": 1846,
-    "timeMonth": 1562,
+    "timeDay": 1074,
+    "timeWeek": 1819,
+    "timeMonth": 1566,
     "timeYear": 1347,
     "dailyMinutesDown": {
       "2026-02-20": 58,
@@ -428,8 +428,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   },
   {
@@ -449,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 1914,
+      "2026-02-21": 178,
+      "2026-02-20": 2880,
       "2026-02-19": 2880,
       "2026-02-18": 2880,
       "2026-02-17": 2880,
@@ -812,8 +812,7 @@
       "2025-02-25": 2880,
       "2025-02-24": 2880,
       "2025-02-23": 2880,
-      "2025-02-22": 2880,
-      "2025-02-21": 2880
+      "2025-02-22": 2880
     }
   }
 ]
