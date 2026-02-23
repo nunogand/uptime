@@ -6,14 +6,14 @@
     "slug": "nunogand",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "96.00%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "99.30%",
     "time": 491,
-    "timeDay": 434,
-    "timeWeek": 544,
-    "timeMonth": 549,
+    "timeDay": 385,
+    "timeWeek": 576,
+    "timeMonth": 542,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2026-02-22": 63,
@@ -93,14 +93,14 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "98.10%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "96.70%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.33%",
-    "time": 1347,
-    "timeDay": 1353,
-    "timeWeek": 1958,
-    "timeMonth": 1568,
-    "timeYear": 1347,
+    "time": 1346,
+    "timeDay": 1280,
+    "timeWeek": 2091,
+    "timeMonth": 1556,
+    "timeYear": 1346,
     "dailyMinutesDown": {
       "2026-02-22": 27,
       "2026-02-20": 58,
@@ -183,7 +183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-22": 1678,
+      "2026-02-23": 214,
+      "2026-02-22": 2880,
       "2026-02-21": 2880,
       "2026-02-20": 2880,
       "2026-02-19": 2880,
@@ -546,8 +547,7 @@
       "2025-02-27": 2880,
       "2025-02-26": 2880,
       "2025-02-25": 2880,
-      "2025-02-24": 2880,
-      "2025-02-23": 2880
+      "2025-02-24": 2880
     }
   }
 ]
