@@ -8,7 +8,7 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.28%",
-    "uptimeMonth": "96.28%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "99.28%",
     "time": 493,
     "timeDay": 205,
@@ -92,16 +92,17 @@
     "slug": "usf-tempo-de-cuidar",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "99.30%",
     "time": 1347,
     "timeDay": 1111,
     "timeWeek": 1367,
     "timeMonth": 1582,
     "timeYear": 1347,
     "dailyMinutesDown": {
+      "2026-03-02": 104,
       "2026-03-01": 35,
       "2026-02-28": 75,
       "2026-02-27": 86,
@@ -182,7 +183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 2878,
+      "2026-03-02": 208,
+      "2026-03-01": 2880,
       "2026-02-28": 2880,
       "2026-02-27": 2880,
       "2026-02-26": 2880,
@@ -545,8 +547,7 @@
       "2025-03-06": 2880,
       "2025-03-05": 2880,
       "2025-03-04": 2880,
-      "2025-03-03": 2880,
-      "2025-03-02": 2880
+      "2025-03-03": 2880
     }
   }
 ]
