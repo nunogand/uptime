@@ -1,7 +1,7 @@
 url: https://www.usftempodecuidar.pt
-status: up
-code: 200
-responseTime: 2642
-lastUpdated: 2026-03-31T23:38:28.616Z
+status: down
+code: 415
+responseTime: 1763
+lastUpdated: 2026-04-01T21:25:57.068Z
 startTime: 2022-11-26T22:40:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
