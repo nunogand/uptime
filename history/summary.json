@@ -6,15 +6,15 @@
     "slug": "nunogand",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "93.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "97.23%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "98.62%",
     "time": 522,
-    "timeDay": 516,
-    "timeWeek": 555,
-    "timeMonth": 527,
-    "timeYear": 540,
+    "timeDay": 770,
+    "timeWeek": 627,
+    "timeMonth": 537,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-05-10": 98,
       "2026-05-02": 92,
@@ -90,12 +90,12 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.48%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "95.46%",
     "uptimeYear": "98.88%",
     "time": 1361,
-    "timeDay": 3211,
-    "timeWeek": 1768,
-    "timeMonth": 1415,
+    "timeDay": 1135,
+    "timeWeek": 1698,
+    "timeMonth": 1453,
     "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-05-08": 125,
@@ -176,7 +176,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 318,
+      "2026-05-12": 306,
+      "2026-05-11": 2880,
       "2026-05-10": 2880,
       "2026-05-09": 2880,
       "2026-05-08": 2880,
@@ -539,8 +540,7 @@
       "2025-05-16": 2880,
       "2025-05-15": 2880,
       "2025-05-14": 2880,
-      "2025-05-13": 2880,
-      "2025-05-12": 2880
+      "2025-05-13": 2880
     }
   }
 ]
