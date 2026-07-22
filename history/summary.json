@@ -13,7 +13,7 @@
     "time": 539,
     "timeDay": 777,
     "timeWeek": 649,
-    "timeMonth": 604,
+    "timeMonth": 595,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2026-02-03": 55,
@@ -87,17 +87,17 @@
     "url": "https://www.usftempodecuidar.pt",
     "icon": "https://icons.duckduckgo.com/ip3/www.usftempodecuidar.pt.ico",
     "slug": "usf-tempo-de-cuidar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "87.52%",
-    "uptimeMonth": "87.27%",
-    "uptimeYear": "97.60%",
-    "time": 1486,
-    "timeDay": 1108,
-    "timeWeek": 1501,
-    "timeMonth": 1632,
-    "timeYear": 1486,
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "87.14%",
+    "uptimeYear": "97.59%",
+    "time": 1487,
+    "timeDay": 1466,
+    "timeWeek": 1540,
+    "timeMonth": 1633,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2026-04-01": 35,
       "2026-04-07": 323,
@@ -153,7 +153,7 @@
       "2026-07-18": 2,
       "2026-07-20": 176,
       "2026-07-21": 49,
-      "2026-07-22": 3
+      "2026-07-22": 62
     }
   },
   {
@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 3,
+      "2026-07-22": 67,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
