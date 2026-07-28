@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usftempodecuidar.pt.ico",
     "slug": "usf-tempo-de-cuidar",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "86.51%",
+    "uptime": "99.33%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "85.96%",
     "uptimeMonth": "85.36%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.56%",
     "time": 1485,
     "timeDay": 1488,
     "timeWeek": 1424,
@@ -154,7 +154,7 @@
       "2026-07-25": 101,
       "2026-07-26": 116,
       "2026-07-27": 68,
-      "2026-07-28": 5
+      "2026-07-28": 60
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 66,
+      "2026-07-28": 121,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
